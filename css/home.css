@@ -1,0 +1,36 @@
+body {
+background-color: #24A8BC;	
+font-family: 'Special Elite', cursive;
+margin: 25px 0px 0px 25px
+}	
+
+button {
+background-color: #6B726B;
+border: none;
+color: white;
+padding: 18px 20px;
+font-size: 15px;
+margin: 0px 10px 0px 0px;
+}
+
+p {
+font-size: 20px;
+}
+
+h1{
+font-size:40px;
+color:white;
+text-shadow:
+-2px -2px 0 #000,  
+2px -2px 0 #000,
+-2px 2px 0 #000,
+2px 2px 0 #000;
+}
+
+h3{
+font-size:24px 	
+}
+img{
+border:3px solid;
+width: 250px;		
+}
